@@ -409,7 +409,7 @@
 
 * This code is based on esp-idf project.
 * This repository contains esp-idf code as submodule.
-* To clone this repository by **git clone --recurisve https://github.com/espressif/esp-iot-solution.git**
+* To clone this repository by **git clone --recursive https://github.com/espressif/esp-iot-solution.git**
 * Change to the directory of examples (such as examples/smart_device) in esp-iot-solution, run `make menuconfig` to configure the project.
 * Compiling the Project by `make all`
 
@@ -432,7 +432,7 @@ Exit miniterm by typing Ctrl-].
 
 * This code is based on esp-idf project.
 * This repository contains esp-idf code as submodule.
-* To clone this repository by **git clone --recurisve https://github.com/espressif/esp-iot-solution.git**
+* To clone this repository by **git clone --recursive https://github.com/espressif/esp-iot-solution.git**
 * Change to the directory of examples (such as examples/smart_device) in esp-iot-solution, run `idf.py menuconfig` to configure the project.
 * Compiling the Project by `idf.py build`
 
